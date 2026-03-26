@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3ecb75c60ce41ed99d35c4a1084db92, type: 3}
+  m_Name: LumosLibSettings
+  m_EditorClassIdentifier: LumosLib.Runtime::LumosLib.LumosLibSettings
+  _usePreInitialize: 1
+  _preloadObjects:
+  - {fileID: 1609196546380799947, guid: ef487f79fd7116d498ed3ddeb081de95, type: 3}
+  - {fileID: 8058629735882968227, guid: d2bc57b538a7f3a42bc1a99718f6b629, type: 3}
+  - {fileID: 5952580857896992477, guid: 13c92f9b295a9d64dbfc8fd1a9ad7721, type: 3}
